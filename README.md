@@ -1,2 +1,5 @@
 # spoxide
-this project uses spotdl as a backend for now, will change later. this requires you to have python and spotdl installed
+okay so rust was unfortunately not the move
+I am rewriting this in typescript
+
+please reference https://github.com/hungl6844/spotdl-ts for future updates
